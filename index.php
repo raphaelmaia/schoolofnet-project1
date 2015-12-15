@@ -40,10 +40,6 @@
 
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
-
         <div class="container-fluid">
 
             <div class="container">
